@@ -67,7 +67,7 @@
             this.PicReiniciar.Size = new System.Drawing.Size(220, 64);
             this.PicReiniciar.TabIndex = 1;
             this.PicReiniciar.TabStop = false;
-            this.PicReiniciar.Click += new System.EventHandler(this.PicReiniciar_Click);
+            //this.PicReiniciar.Click += new System.EventHandler(this.PicReiniciar_Click_1);
             // 
             // pictureBox1
             // 
@@ -116,7 +116,6 @@
             this.label2.Size = new System.Drawing.Size(85, 18);
             this.label2.TabIndex = 6;
             this.label2.Text = "GANADOR ";
-            this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // lblplayer1
             // 
